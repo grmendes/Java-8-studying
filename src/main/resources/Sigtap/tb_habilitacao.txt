@@ -1,0 +1,276 @@
+0101Centro de referência em atenção a saúde do idoso                                                                                                      201701
+0201Centro de referência em cirúrgia bariátrica                                                                                                           201701
+0202Unidade de alta complexidade ao paciente portador de obesidade grave                                                                                  201701
+0203Assistência em Alta Complexidade ao individuo com Obesidade                                                                                           201701
+0301Centros/Núcleos para realização de implante coclear                                                                                                   201701
+0305Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             201701
+0401Centro de tratamento da má formação labio-palatal                                                                                                     201701
+0403Centro de Especialidade Odontológica - CEO I                                                                                                          201701
+0404Centro de Especialidade Odontológica - CEO II                                                                                                         201701
+0405Centro de Especialidade Odontológica - CEO III                                                                                                        201701
+0501Centro de Referencia em Oftalmologia Nível I                                                                                                          201701
+0502Centro de Referência em Oftalmologia Nível II                                                                                                         201701
+0503Unidade de Atenção Especializada em Oftalmologia                                                                                                      201701
+0504Centro de Referência em Oftalmologia                                                                                                                  201701
+0505Projeto Olhar Brasil                                                                                                                                  201701
+0506Tratamento do Glaucoma com medicamentos no âmbito da Política Nacional de Atenção Oftalmológica                                                       201701
+0507Consultório Itinerante de Ensino em Oftalmologia                                                                                                      201701
+0508Tratamento do Glaucoma com medicamentos do Componente Especializado da Assistência Farmacêutica                                                       201701
+0601Psiquiatria - Classe I                                                                                                                                201701
+0602Psiquiatria - Classe II                                                                                                                               201701
+0603Psiquiatria - Classe III                                                                                                                              201701
+0604Psiquiatria - Classe IV                                                                                                                               201701
+0605Psiquiatria - Classe V                                                                                                                                201701
+0606Psiquiatria - Classe VI                                                                                                                               201701
+0607Psiquiatria - Classe VII                                                                                                                              201701
+0608Psiquiatria - Classe VIII                                                                                                                             201701
+0609Psiquiatria - Classe IX                                                                                                                               201701
+0610Psiquiatria - Classe X                                                                                                                                201701
+0611Psiquiatria - Classe XI                                                                                                                               201701
+0612Psiquiatria - Classe XII                                                                                                                              201701
+0613Psiquiatria - Classe XIII                                                                                                                             201701
+0614Psiquiatria - Classe XIV                                                                                                                              201701
+0615PNASS maior que 80%                                                                                                                                   201701
+0616Centro de Atenção Psicossocial - CAPS I                                                                                                               201701
+0617Centro de Atenção Psicossocial - CAPS II                                                                                                              201701
+0618Centro de Atenção Psicossocial - CAPS III                                                                                                             201701
+0619Centro de Atenção Psicossocial Álcool e Drogas - CAPSad                                                                                               201701
+0620Centro de Atenção Psicossocial Infantil - CAPSi                                                                                                       201701
+0621Serviço hospitalar de referência para a atenção integral aos usuários de álcool e outras drogas                                                       201701
+0622Psiquiatria Classe I - PT/GM nº251/02                                                                                                                 201701
+0623Psiquiatria Classe II - PT/GM nº251/02                                                                                                                201701
+0624Psiquiatria Classe III - PT/GM nº251/02                                                                                                               201701
+0625Psiquiatria Classe IV - PT/GM nº 251/02                                                                                                               201701
+0626Psiquiatria Classe V - PT/GM nº251/02                                                                                                                 201701
+0627Psiquiatria Classe VI - PT/GM nº251/02                                                                                                                201701
+0628Psiquiatria Classe VII - PT/GM nº251/02                                                                                                               201701
+0629Psiquiatria Classe VIII - PT/GM nº251/02                                                                                                              201701
+0630Psiquiatria III                                                                                                                                       201701
+0631Nível I                                                                                                                                               201701
+0632Nível II                                                                                                                                              201701
+0633Nível III                                                                                                                                             201701
+0634Nível IV                                                                                                                                              201701
+0635Centro de Atenção Psicossocial Álcool e Drogas - CAPS AD III                                                                                          201701
+0636Atenção a pessoas com sofrimento ou transtorno mental decorrente de alcool e outras drogas.                                                           201701
+0701Serviço de Referência de Saúde do Trabalhador Estadual A                                                                                              201701
+0702Serviço de Referência de Saúde do Trabalhador Estadual B                                                                                              201701
+0703Serviço de Referência de Saúde do Trabalhador Estadual C                                                                                              201701
+0704Serviço de Referência de Saúde do Trabalhador Regional A                                                                                              201701
+0705Serviço de Referência de Saúde do Trabalhador Regional B                                                                                              201701
+0706Serviço de Referência de Saúde do Trabalhador Regional C                                                                                              201701
+0801Unidade de assistência de alta complexidade cardiovascular                                                                                            201701
+0802Centro de referência em alta complexidade cardiovascular                                                                                              201701
+0803Cirurgia cardiovascular e procedimentos em cardiologia intervencionista                                                                               201701
+0804Cirurgia cardiovascular pediátrica                                                                                                                    201701
+0805Cirurgia vascular                                                                                                                                     201701
+0806Cirurgia vascular e procedimentos endovasculares extracardíacos                                                                                       201701
+0807Laboratório de eletrofisiologia, cirurgia cardiovascular e procedimentos de cardiologia intervencionista                                              201701
+0808Implante de marcapasso definitivo                                                                                                                     201701
+0809Cirurgia cardíaca                                                                                                                                     201701
+0810Laboratório eletrofisiológico e terapia intervencionista                                                                                              201701
+0901Cuidados prolongados - enfermidades cardiovasculares                                                                                                  201701
+0902Cuidados prolongados - enfermidades pneumológicas                                                                                                     201701
+0903Cuidados prolongados - enfermidades neurológicas                                                                                                      201701
+0904Cuidados prolongados - enfermidades osteomuscular e do tecido conjuntivo                                                                              201701
+0905Cuidados prolongados - enfermidades oncológicas                                                                                                       201701
+0906Cuidados prolongados - enfermidades decorrentes da AIDS                                                                                               201701
+0907Cuidados prolongados - enfermidades devido a causas externas                                                                                          201701
+1001Centro de referência no tratamento da dor crônica                                                                                                     201701
+1101Serviço hospitalar para tratamento AIDS                                                                                                               201701
+1102Laboratório Especializado em Contagem de Linfócitos T CD4+/CD8+ e HIV1 Quant. do RNA                                                                  201701
+1103Tratamento da lipoatrofia facial do portador de HIV/AIDS                                                                                              201701
+1104Tratamento da liopodistrofia do Portador de HIV/AIDS                                                                                                  201701
+1105Laboratório Especializado em Contagem de Linfócitos T CD4+/CD8+                                                                                       201701
+1106Laboratório Especializado em Quantificação do RNA do HIV1                                                                                             201701
+1201Fibrose cística - Hospital Dia                                                                                                                        201701
+1202Hospital Dia - Procedimentos cirúrgicos, diagnósticos ou terapêuticos                                                                                 201701
+1203Hospital Dia - AIDS                                                                                                                                   201701
+1204Hospital Dia em intercorrências pós-transplante de medula óssea e de outros precursores hematopoéticos                                                201701
+1205Hospital Dia - Geriatria                                                                                                                              201701
+1206Hospital Dia - Saúde Mental                                                                                                                           201701
+1301Internação domiciliar                                                                                                                                 201701
+1401Referência hospitalar em atendimento secundário a gestante de alto risco                                                                              201701
+1402Referência hospitalar em atendimento terciário a gestante de alto risco                                                                               201701
+1403Unidade que realiza assistência ao parto sem distócia por enfermeiro obstetra ou obstetriz                                                            201701
+1404Hospital Amigo da Criança                                                                                                                             201701
+1405Centro de referência em triagem neonatal/acompanhamento e tratamento de doenças congênitas - fenilcetonuria/hipotireoidismo congenito                 201701
+1406Centro de referência em triagem neonatal/acompanhamento e tratamento - doenças falciformes e outras hemoglobinopatias                                 201701
+1407Centro de referência em triagem neonatal/acompanhamento e tratamento - fibrose cística                                                                201701
+1408Triagem Neonatal Fase IV                                                                                                                              201701
+1409Diagnóse de Fibrose Cistica                                                                                                                           201701
+1410Unidade de Centro de Parto Normal Intra-Hospitalar Tipo I 3 PPP                                                                                       201701
+1411Unidade de Centro de Parto Normal Intra-Hospitalar Tipo I 5 PPP                                                                                       201701
+1412Unidade de Centro de Parto Normal Peri-Hospitalar 5 PPP                                                                                               201701
+1413Atenção Hospitalar de Referência à Gestação de Alto Risco Tipo 1                                                                                      201701
+1414Atenção Hospitalar de Referência à Gestação de Alto Risco Tipo 2                                                                                      201701
+1415Casa da Gestante, Bebê e Puérpera                                                                                                                     201701
+1416Hospital Amigo da Criança                                                                                                                             201701
+1417Unidade de Centro de Parto Normal Peri-Hospitalar 3 PPP                                                                                               201701
+1418Unidade de Centro de Parto Normal Intra-Hospitalar Tipo II 3 PPP                                                                                      201701
+1419Unidade de Centro de Parto Normal Intra-Hospitalar Tipo II 5 PPP                                                                                      201701
+1501Unidade de assistência de alta complexidade em nefrologia (serviço de nefrologia)                                                                     201701
+1502Centro de referência de alta complexidade em nefrologia                                                                                               201701
+1504Unidade de Assistência de Alta Complexidade em Nefrologia com Hemodiálise                                                                             201701
+1505Unidade de Assistência de Alta Complexidade em Nefrologia com Diálise Peritoneal                                                                      201701
+1506Unidade Especializada em DRC                                                                                                                          201701
+1507Unidade Especializada em DRC com TRS/Diálise Tipo I com Hemodiálise                                                                                   201701
+1508Unidade Especializada em DRC com TRS/Diálise Tipo I com Diálise Peritoneal                                                                            201701
+1509Unidade Especializada em DRC com TRS/Diálise Tipo II com Hemodiálise                                                                                  201701
+1510Unidade Especializada em DRC com TRS/Diálise Tipo II com Diálise Peritoneal                                                                           201701
+1511Unidade Especializada em DRC com TRS/Diálise Tipo III com Hemodiálise                                                                                 201701
+1512Unidade Especializada em DRC com TRS/Diálise Tipo III com Diálise Peritoneal                                                                          201701
+1513Unidade Especializada em DRC com TRS/Diálise Tipo IV com Hemodiálise                                                                                  201701
+1514Unidade Especializada em DRC com TRS/Diálise Tipo IV com Diálise Peritoneal                                                                           201701
+1601Unidade de assistência de alta complexidade em neurologia/neurocirurgia                                                                               201701
+1602Centro de referência de alta complexidade em neurologia/neurocirurgia                                                                                 201701
+1603Trauma e anomalias do desenvolvimento                                                                                                                 201701
+1604Coluna e dos nervos periféricos                                                                                                                       201701
+1605Tumores do sistema nervoso                                                                                                                            201701
+1606Neurocirurgia vascular                                                                                                                                201701
+1607Tratamento neurocirúrgico da dor e funcional                                                                                                          201701
+1608Investigação e cirurgia de epilepsia                                                                                                                  201701
+1609Tratamento neuro-endovascular                                                                                                                         201701
+1610Neurocirurgia funcional esteriotáxica                                                                                                                 201701
+1611Epilepsia                                                                                                                                             201701
+1612Neurocirurgia I                                                                                                                                       201701
+1613Neurocirurgia II                                                                                                                                      201701
+1614Neurocirurgia III                                                                                                                                     201701
+1615Centro de Atendimento de Urgência Tipo I aos Pacientes com AVC                                                                                        201701
+1616Centro de Atendimento de Urgência Tipo II aos Pacientes com AVC                                                                                       201701
+1617Centro de Atendimento de Urgência Tipo III aos Pacientes com AVC                                                                                      201701
+1704Serviço isolado de radioterapia                                                                                                                       201701
+1705Serviço isolado de quimioterapia                                                                                                                      201701
+1706UNACON                                                                                                                                                201701
+1707UNACON com serviço de radioterapia                                                                                                                    201701
+1708UNACON com serviço de hematologia                                                                                                                     201701
+1709UNACON com serviço de oncologia pediátrica                                                                                                            201701
+1710UNACON exclusiva de hematologia                                                                                                                       201701
+1711UNACON exclusiva de oncologia pediátrica                                                                                                              201701
+1712CACON                                                                                                                                                 201701
+1713CACON com serviço de oncologia pediátrica                                                                                                             201701
+1714Hospital Geral com cirurgia oncológica                                                                                                                201701
+1715Serviço de radioterapia de complexo hospitalar                                                                                                        201701
+1716Serviço de Oncologia Clínica de Complexo hospitalar                                                                                                   201701
+1717Oncologia Cirúrgica Hospital Porte A                                                                                                                  201701
+1718Oncologia Cirúrgica Hospital Porte B.                                                                                                                 201701
+1719Serviço de Referência P/Diagnóstico e Trat. de Lesões Precursoras do Câncer do Colo de Útero(SRC)                                                     201701
+1720Serviço de Referência para Diagnóstico de Câncer de Mama (SDM)                                                                                        201701
+1801Centro de referência de tratamento de osteogênesis imperfecta                                                                                         201701
+1901Laqueadura                                                                                                                                            201701
+1902Vasectomia                                                                                                                                            201701
+2001Programa de assistência ventilatoria não invasiva aos portadores de doenças neuromusculares                                                           201701
+2101Unidade de referência em assistência a queimados - média complexidade                                                                                 201701
+2102Centro de referência em assistência a queimados - alta complexidade                                                                                   201701
+2201Centro de referência de reabilitação em medicina fisica                                                                                               201701
+2202Centro de reabilitação fisica - nível intermediário                                                                                                   201701
+2203Centro de Reabilitação Visual                                                                                                                         201701
+2204Centro de Reabilitação Auditiva na Média Complexidade                                                                                                 201701
+2205Centro de Reabilitação Auditiva na Alta Complexidade                                                                                                  201701
+2206Centro de Reabilitação Intelectual                                                                                                                    201701
+2207Centro de Reabilitação dos Transtornos do Spectro do Autismo                                                                                          201701
+2208Centro Especializado em Reabilitação (CER) Modalidade Física                                                                                          201701
+2209Centro Especializado em Reabilitação (CER) Modalidade Intelectual                                                                                     201701
+2210Centro Especializado em Reabilitação (CER) Modalidade Auditiva                                                                                        201701
+2211Centro Especializado em Reabilitação (CER) Modalidade Visual                                                                                          201701
+2301Unidade de assistência de alta complexidade em terapia nutricional                                                                                    201701
+2302Centro de referência de alta complexidade em terapia nutricional                                                                                      201701
+2303Enteral                                                                                                                                               201701
+2304Enteral e parenteral                                                                                                                                  201701
+2305Enteral e parenteral com manipulação e fabricação da fórmula nutricional                                                                              201701
+2306Nutrição enteral                                                                                                                                      201701
+2401Transplante de medula óssea-autogênico                                                                                                                201701
+2402Transplante de medula óssea-alogênico aparentado                                                                                                      201701
+2403Transplante de medula óssea-alogênico não aparentado                                                                                                  201701
+2404Transplante de pâncreas isolado                                                                                                                       201701
+2405Transplante conjugado rim e pâncreas                                                                                                                  201701
+2407Transplante de córnea/esclera                                                                                                                         201701
+2408Transplante renal                                                                                                                                     201701
+2409Transplante de fígado                                                                                                                                 201701
+2410Transplante de pulmão                                                                                                                                 201701
+2411Transplante de coração                                                                                                                                201701
+2412Busca ativa de orgãos                                                                                                                                 201701
+2413Banco de tecido ocular humano                                                                                                                         201701
+2414Banco de válvulas cardíacas                                                                                                                           201701
+2415Banco de tecido músculo-esquelético                                                                                                                   201701
+2416Banco de sangue e cordão umbilical e placentário                                                                                                      201701
+2417Exames de histocompatibilidade atraves de sorologia - Tipo I                                                                                          201701
+2418Exames de histocompatibilidade atraves de sorologia e ou biologia molecular - Tipo II                                                                 201701
+2419Banco de Pele Humana                                                                                                                                  201701
+2420Retirada de Órgãos e Tecidos                                                                                                                          201701
+2421Banco de Multitecidos                                                                                                                                 201701
+2422Transplante de tecido músculo esquelético                                                                                                             201701
+2423Transplante da válvula cardíaca humana                                                                                                                201701
+2424Transplante de pele                                                                                                                                   201701
+2425Cadastramento de doadores voluntários de medula óssea e outros precursores hematopoéticos                                                             201701
+2426Estabelecimento de saúde de Nível A                                                                                                                   201701
+2427Estabelecimento de saúde de Nível B                                                                                                                   201701
+2428Estabelecimento de saúde de Nível C                                                                                                                   201701
+2429Estabelecimento de saúde de Nível D                                                                                                                   201701
+2501Unidade de atenção especializada em traumato-ortopedia                                                                                                201701
+2502Centro de referência de alta complexidade em traumato-ortopedia                                                                                       201701
+2503Coluna                                                                                                                                                201701
+2504Cintura escapular, ombro, braço e cotovelo                                                                                                            201701
+2505Antebraço, punho e mão                                                                                                                                201701
+2506Cintura pélvica, quadril, coxa                                                                                                                        201701
+2507Coxa, joelho e perna                                                                                                                                  201701
+2508Perna, tornozelo e pé                                                                                                                                 201701
+2509Ortopedia infantil                                                                                                                                    201701
+2510Traumatologia ortopédica de urgência                                                                                                                  201701
+2511Ortopedia - Coluna                                                                                                                                    201701
+2512Ortopedia - Ombro                                                                                                                                     201701
+2513Ortopedia - Mão                                                                                                                                       201701
+2514Ortopedia - Quadril                                                                                                                                   201701
+2515Ortopedia - Joelho                                                                                                                                    201701
+2516Ortopedia - Tumor Ósseo                                                                                                                               201701
+2517Outros segmentos ósseos                                                                                                                               201701
+2518Adesão á Estratégia de Aumento do Acesso aos Procedimentos-TOM                                                                                        201701
+2601UTI II - Adulto                                                                                                                                       201701
+2602UTI II - Neonatal                                                                                                                                     201701
+2603UTI II - Pediátrica                                                                                                                                   201701
+2604UTI III - Adulto                                                                                                                                      201701
+2605UTI III - Neonatal                                                                                                                                    201701
+2606UTI III - Pediátrica                                                                                                                                  201701
+2607UTI - Queimados                                                                                                                                       201701
+2608Unidade Terapia Intensiva Coronariana - UCO TIPO II                                                                                                   201701
+2609Unidade Terapia Intensiva Coronariana - UCO TIPO III                                                                                                  201701
+2610Unidade de Terapia Intensiva Neonatal Tipo II - UTIN II                                                                                               201701
+2611Unidade de Terapia Intensiva Neonatal Tipo III - UTIN III                                                                                             201701
+2696UTI I Adulto                                                                                                                                          201701
+2697UTI I Neonatal                                                                                                                                        201701
+2698UTI I Pediatria                                                                                                                                       201701
+2699UTI I                                                                                                                                                 201701
+2701Hospital Tipo I em Urgência                                                                                                                           201701
+2702Hospital Tipo II em Urgência                                                                                                                          201701
+2703Hospital Tipo III em Urgência                                                                                                                         201701
+2711Administração Pré Hospitalar de Tenectoplase                                                                                                          201701
+2801Unidade de cuidados intermediários neonatal                                                                                                           201701
+2802Unidade de Cuidados Intermediários Neonatal Convencional (UCINCo)                                                                                     201701
+2803Unidade de Cuidados Intermediários Neonatal Canguru (UCINCa)                                                                                          201701
+2901Videocirurgia                                                                                                                                         201701
+3001Unidade de Atenção Especializada no Processo Transexualizador                                                                                         201701
+3002Atenção ao Pré e Pós Operatório (clínico) e Hormonioterapia no Processo Transexualizador                                                              201701
+3003Atenção ao Pré e Pós Operatório e Cirurgias no Processo Transexualizador                                                                              201701
+3101HPP- Hospital de Pequeno Porte                                                                                                                        201701
+3201Unidade de Mamografia Móvel                                                                                                                           201701
+3202Laboratório de Exames Citopatológico do Cólo do Últero-Tipo I                                                                                         201701
+3203Lab. Monitoramento Externo de Qualidade de Exame Citopatológico do Colo do Útero Tipo-II                                                              201701
+3401Centro de Trauma Tipo I                                                                                                                               201701
+3402Centro de Trauma Tipo II                                                                                                                              201701
+3403Centro de Trauma Tipo III                                                                                                                             201701
+3501Atenção Especializada Eixo I DR de Origem Genética: 1-Anomalias Congênitas ou de Manifestação Tardia                                                  201701
+3502Atenção Especializada Eixo I DR de Origem Genética:2-Deficiência Intelectual Associada à Doença Rara                                                  201701
+3503Atenção Especializada Eixo I DR de Origem Genética: 3-Erro Inato do Metabolismo (EIM)                                                                 201701
+3504Atenção Especializada Eixo II DR de Origem não Genética: 1-Doenças Raras Inflamatórias                                                                201701
+3505Atenção Especializada Eixo II DR de Origem não Genética: 2-Doenças Raras Infecciosas                                                                  201701
+3506Atenção Especializada Eixo II DR de Origem não Genética: 3-Doenças Raras Autoimunes                                                                   201701
+3507Serviço de Referência Eixo I DR de Origem Genética:1 Anomalias Congênitas ou de Manifestação Tardia                                                   201701
+3508Serviço de Referência Eixo I DR de Origem Genética:2-Deficiência Intelectual Associada à Doença Rara                                                  201701
+3509Serviço de Referência Eixo I DR de Origem Genética:3-Erro Inato do Metabolismo (EIM)                                                                  201701
+3510Serviço de Referência Eixo II DR de Origem não Genética:3-Doenças Raras Autoimunes                                                                    201701
+3511Serviço de Referência Eixo II DR de Origem não Genética:2-Doenças Raras Inflamatórias                                                                 201701
+3512Serviço de Referência Eixo II DR de Origem não Genética:1-Doenças Raras Infecciosas                                                                   201701
+3513Atenção Especializada Eixo II DR de Origem não Genética:4-Outras DR de Origem não Genética                                                            201701
+3514Serviço de Referência Eixo II DR de Origem não Genética:4-Outras DR de Origem não Genética                                                            201701
+3515Serviço de Aconselhamento Genético                                                                                                                    201701
+3601Sítio Testador de ácidos nucléicos (SIT-NAT)                                                                                                          201701
+3701Coleta de Vestígios de Violência Sexual                                                                                                               201701

@@ -1,0 +1,64 @@
+040001Coleta de material                                                                                  201701
+040002Diagnóstico em laboratório clínico                                                                  201701
+040003Coleta/exame anátomo-patológico colo uterino                                                        201701
+040004Diagnóstico em neurologia                                                                           201701
+040005Diagnóstico em otorrinolaringologia/fonoaudiologia                                                  201701
+040006Diagnóstico em psicologia/psiquiatria                                                               201701
+040007Consultas médicas/outros profissionais de nível superior                                            201701
+040008Atenção domiciliar                                                                                  201701
+040009Atendimento/acompanhamento em reabilitação física, mental, visual, auditiva e múltiplas deficiências201701
+040010Atendimento/acompanhamento psicossocial                                                             201701
+040011Atendimento/acompanhamento em saúde do idoso                                                        201701
+040012Atendimento/acompanhamento de queimados                                                             201701
+040013Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabólicas e nutricionais          201701
+040014Tratamento de doenças do sistema nervoso central e periférico                                       201701
+040015Tratamento de doenças do aparelho da visão                                                          201701
+040016Tratamento em oncologia                                                                             201701
+040017Nefrologia                                                                                          201701
+040018Tratamentos odontológicos                                                                           201701
+040019Cirurgia do sistema nervoso central e periférico                                                    201701
+040020Cirurgias de ouvido, nariz e garganta                                                               201701
+040021Deformidade labio-palatal e crânio-facial                                                           201701
+040022Cirurgia do aparelho da visão                                                                       201701
+040023Cirurgia do aparelho circulatório                                                                   201701
+040024Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal(inclui pré e pós operatório)       201701
+040025Cirurgia do aparelho geniturinário                                                                  201701
+040026Tratamento de queimados                                                                             201701
+040027Cirurgia reparadora para lipodistrofia                                                              201701
+040028Outras cirurgias plásticas/reparadoras                                                              201701
+040029Cirurgia orofacial                                                                                  201701
+040030Sequenciais                                                                                         201701
+040032Transplantes de orgãos, tecidos e células                                                           201701
+040033Medicamentos para transplante                                                                       201701
+040035OPM em odontologia                                                                                  201701
+040036OPM em queimados                                                                                    201701
+040038OPM para transplantes                                                                               201701
+040039Incentivos ao pré-natal e nascimento                                                                201701
+040040Incentivo ao registro cívil de nascimento                                                           201701
+040041Central Nacional de Regulação de Alta Complexidade (CNRAC)                                          201701
+040042Reguladores de Atividade hormonal - Inibidores de prolactina                                        201701
+040043Política Nacional de Cirurgias Eletivas                                                             201701
+040044Redesignação e Acompanhamento                                                                       201701
+040045Projeto Olhar Brasil                                                                                201701
+040046Mamografia para Rastreamento                                                                        201701
+040047Projeto Olhar Brasil - Consulta                                                                     201701
+040048Projeto Olhar Brasil - Óculos                                                                       201701
+040049Implementar Cirg. CV Pediátrica                                                                     201701
+040050Cirurgias Eletivas - Componente I                                                                   201701
+040051Cirurgias Eletivas - Componente II                                                                  201701
+040052Cirurgias Eletivas - Componente III                                                                 201701
+040053Prótese Mamária - Exames                                                                            201701
+040054Prótese Mamária - Cirurgia                                                                          201701
+040055Transplante - Histocompatibilidade                                                                  201701
+040056Triagem Neonatal                                                                                    201701
+040057Controle de qualidade do exame citopatológico do colo de útero                                      201701
+040058Exames do Leite Materno                                                                             201701
+040059Atenção as Pessoas em Situação de Violência Sexual                                                  201701
+040060Sangue e Hemoderivados                                                                              201701
+040061Mamografia para rastreamento em faixa etária recomendada                                            201701
+040062Doenças Raras                                                                                       201701
+040063Cadeiras de Rodas                                                                                   201701
+040064Sistema de Frequencia Modulada Pessoal-FM                                                           201701
+040065Medicamentos em Urgência                                                                            201701
+040066Cirurgias Eletivas - Componente Único                                                               201701
+040067Atenção Especializada em Saúde Auditiva                                                             201701

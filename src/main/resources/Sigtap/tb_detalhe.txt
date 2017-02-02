@@ -1,0 +1,36 @@
+001Inclui valor da anestesia                                                                           201701
+003Admite longa permanência                                                                            201701
+004Admite permanência à maior                                                                          201701
+005Admite liberação de quantidade na AIH                                                               201701
+006CNRAC                                                                                               201701
+007Permanência por dia                                                                                 201701
+008Não permite mudança de procedimento                                                                 201701
+009Exige CNS                                                                                           201701
+011Permite alta direta de UTI                                                                          201701
+012Exige idade no BPA (Consolidado)                                                                    201701
+013Verifica habilitação de terceiro                                                                    201701
+014Admite APAC de Continuidade                                                                         201701
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           201701
+016Admitido apenas em Hospital Geral                                                                   201701
+017Exige Informação da OPM                                                                             201701
+019Projeto Olhar Brasil                                                                                201701
+020Monitoramento do CEO                                                                                201701
+021Não Exige CBO                                                                                       201701
+022Exige registro na APAC de dados complementares                                                      201701
+023Registro no SISCOLO                                                                                 201701
+024Registro no SISPRENATAL                                                                             201701
+025Registro no SISMAMA                                                                                 201701
+026Registro de Procedimentos Secundário Compativel                                                     201701
+027Identificação de  Cirg. Cardiovasculares Pediátricas                                                201701
+029Admite período maior para a apresentação                                                            201701
+033APAC com validade fixa de 03 competências                                                           201701
+034Não exige CNS                                                                                       201701
+035Condicionado a Regras Especificas                                                                   201701
+036Exige Autorização                                                                                   201701
+037Exige CNPJ do Fornecedor                                                                            201701
+038Exige Serviço/Classificação                                                                         201701
+040Registro no SISCAN                                                                                  201701
+041APAC com validade fixa de 12 competências                                                           201701
+042Não Admite Liberação de Crítica de Idade                                                            201701
+043Exige registro de CID de causas associadas                                                          201701
+044Cirurgias Eletivas - Componente Único                                                               201701

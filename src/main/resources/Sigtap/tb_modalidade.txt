@@ -1,0 +1,4 @@
+01Ambulatorial                                                                                        201701
+02Hospitalar                                                                                          201701
+03Hospital Dia                                                                                        201701
+06Atenção Domiciliar                                                                                  201701

@@ -1,0 +1,67 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     201701
+101Estratégia de Saúde da Família                                                                                          201701
+102Estratégias de Agentes Comunitário de Saúde                                                                             201701
+103Serviço de Atendimento Móvel de Urgências                                                                               201701
+104Regulação Assistêncial dos Serviços de Saúde                                                                            201701
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         201701
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       201701
+107Serviço de Atenção a Saúde Auditiva                                                                                     201701
+108Serviço de Atenção a Aaúde do Trabalhador                                                                               201701
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       201701
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  201701
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          201701
+112Serviço de Atenção ao Pré-Natal, Parto e Nascimento                                                                     201701
+113Serviço de Atenção Domiciliar                                                                                           201701
+114Serviço de Atenção em Saúde Bucal                                                                                       201701
+115Serviço de Atenção Psicossocial                                                                                         201701
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           201701
+117Serviço de Cirurgia Reparadora                                                                                          201701
+118Serviço de Cirurgia Torácica                                                                                            201701
+119Serviço de Controle de Tabagismo                                                                                        201701
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       201701
+121Diagnóstico por Imagem                                                                                                  201701
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   201701
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       201701
+124Serviço de Endocrinologia                                                                                               201701
+125Serviço de Farmácia                                                                                                     201701
+126Serviço de Fisioterapia                                                                                                 201701
+127Serviço de Atenção à Obesidade                                                                                          201701
+128Serviço de Hemoterapia                                                                                                  201701
+129Servico de Laboratório de Histocompatibilidade                                                                          201701
+130Atenção à Doença Renal Crônica                                                                                          201701
+131Serviço de Oftalmologia                                                                                                 201701
+132Serviço de Oncologia                                                                                                    201701
+133Serviço de Pneumologia                                                                                                  201701
+134Serviço de Práticas Integrativas e Complementares                                                                       201701
+135Serviço de Reabilitação                                                                                                 201701
+136Serviço de Suporte Nutricional                                                                                          201701
+137Serviço de Telemedicina                                                                                                 201701
+138Serviço de Traumato-Ortopedia                                                                                           201701
+139Serviço de Triagem Neonatal                                                                                             201701
+140Serviço de Urgência e Emergência                                                                                        201701
+141Serviço de Vigilância em Saúde                                                                                          201701
+142Serviço de Endoscopia                                                                                                   201701
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 201701
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         201701
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          201701
+146Serviço de Videolaparoscopia                                                                                            201701
+147Serviço de Apoio a Saúde da Família                                                                                     201701
+148Hospital-Dia                                                                                                            201701
+149Transplante                                                                                                             201701
+150Cirurgia Vascular                                                                                                       201701
+151Medicina Nuclear                                                                                                        201701
+153Atenção Especializada no Processo Transexualizador                                                                      201701
+154Serviço de Banco de Tecidos                                                                                             201701
+155Serviço de Traumatologia  Ortopedia                                                                                     201701
+156Serviço de Atenção á Saúde das Pessoas Ostomizadas                                                                      201701
+157Serviço de Laboratorio de Protese Dentaria                                                                              201701
+158Serviço de Atenção Integral em Hanseniase                                                                               201701
+159Atenção Básica                                                                                                          201701
+160Teleconsultoria                                                                                                         201701
+162Serviço de Terapia Intensiva                                                                                            201701
+163Serviço de Cuidados Intermediários                                                                                      201701
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       201701
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      201701
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  201701
+168Atenção Às Pessoas com Doenças Raras                                                                                    201701
+169Serviço de Atenção em Urologia                                                                                          201701

@@ -1,0 +1,9 @@
+01BPA (Consolidado)                                 201701
+02BPA (Individualizado)                             201701
+03AIH (Proc. Principal)                             201701
+04AIH (Proc. Especial)                              201701
+05AIH (Proc. Secundário)                            201701
+06APAC (Proc. Principal)                            201701
+07APAC (Proc. Secundário)                           201701
+08RAAS (Atenção Domiciliar)                         201701
+09RAAS (Atenção Psicossocial)                       201701

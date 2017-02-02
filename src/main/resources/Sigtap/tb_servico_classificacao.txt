@@ -1,0 +1,341 @@
+167001ODONTOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                           201701
+168001Atenção Especializada Em Doenças Raras                                                                                                                201701
+169001Urologia em Geral                                                                                                                                     201701
+100001Atendimento em presídio até 100 presos                                                                                                                201701
+101001Saúde da família                                                                                                                                      201701
+102001Estratégia de Agentes Comunitários de Saúde - EACS                                                                                                    201701
+103001Ambulância de transporte                                                                                                                              201701
+104001Central de Regulação de Internações Hospitalares                                                                                                      201701
+105001Neurocirurgia do trauma e anomalias do desenvolvimento                                                                                                201701
+106001Testagem e aconselhamento                                                                                                                             201701
+107001Serviço de Atenção à Saúde Auditiva na Média Complexidade                                                                                             201701
+108001Atendimento/acompanhamento em saúde do trabalhador                                                                                                    201701
+109001Unidade sócio-educativa com até 40 adolecentes                                                                                                        201701
+110001Atenção à infertilidade                                                                                                                               201701
+111001Diagnóstico e tratamento                                                                                                                              201701
+112001Acompanhamento do pré-natal de risco habitual                                                                                                         201701
+113001Assitência Domiciliar                                                                                                                                 201701
+114001Dentística                                                                                                                                            201701
+115001Residência terapêutica em saúde mental                                                                                                                201701
+116001Eletrofisiologia                                                                                                                                      201701
+117001Tratamento da lipodistrofia do portador de HIV / AIDS                                                                                                 201701
+118001Cirurgia torácica                                                                                                                                     201701
+119001Abordagem e tratamento do fumante                                                                                                                     201701
+120001Exames anatomopatológicos                                                                                                                             201701
+121001Radiologia                                                                                                                                            201701
+122001Teste Ergométrico                                                                                                                                     201701
+123001OPM auxiliares de locomoção                                                                                                                           201701
+124001Diagnóstico/Tratamento das doenças endócrinas, metabólicas e nutricionais                                                                             201701
+125001Dispensação de Medicamentos do Componente Especializado da Assistência Farmaceutica.                                                                  201701
+126001Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                                                                  201701
+127001Tratamento clínico, cirúrgico, reparador e acompanhamento ao obeso                                                                                    201701
+128001Procedimentos destinados à obtenção do sangue para fins de assitência hemoterápica                                                                    201701
+129001Exames de histocompatibilidade por meio de sorologia                                                                                                  201701
+130001Tratamento Dialítico-Hemodiálise                                                                                                                      201701
+131001Diagnóstico em oftalmologia                                                                                                                           201701
+132001Oncologia pediátrica                                                                                                                                  201701
+133001Tratamento de Doenças das Vias Aéreas Inferiores                                                                                                      201701
+134001Acupuntura                                                                                                                                            201701
+135001Reabilitação Visual                                                                                                                                   201701
+136001Enteral                                                                                                                                               201701
+137001Exame eletrocardiográfico por telemedicina                                                                                                            201701
+138001Diagnóstico e tratamento em cintura escapular                                                                                                         201701
+139001Tratamento de recém-nascido com hipotireoidismo e fenilcetonuria                                                                                      201701
+140001Pronto Socorro Geral                                                                                                                                  201701
+141001Vigilância epidemiológica                                                                                                                             201701
+142001Do aparelho digestivo                                                                                                                                 201701
+143001Transporte terrestre                                                                                                                                  201701
+144001Coleta realizada fora das estrutura laboratorial                                                                                                      201701
+145001Exames Bioquimicos                                                                                                                                    201701
+146001Diagnóstica                                                                                                                                           201701
+147001NASF 1                                                                                                                                                201701
+148001Saúde mental                                                                                                                                          201701
+149001Rim                                                                                                                                                   201701
+150001Fístula arteriovenosa sem enxerto                                                                                                                     201701
+151001Medicina nuclear in vivo                                                                                                                              201701
+153001Acompanhamento Clínico, pré e pós operatório e hormonioterapia.                                                                                       201701
+154001Banco de valvula cardiaca humana                                                                                                                      201701
+155001Serviço de Traumatologia e Ortopedia                                                                                                                  201701
+156001Atenção as Pessoas Ostomizadas I                                                                                                                      201701
+157001Laboratorio Regional de Protese Dentaria                                                                                                              201701
+158001Serviço de Atenção Integral em Hanseniase Tipo I                                                                                                      201701
+159001Atenção Básica                                                                                                                                        201701
+160001Teleconsultoria Assíncrona                                                                                                                            201701
+162001ADULTO                                                                                                                                                201701
+163001NEONATAL CONVENCIONAL                                                                                                                                 201701
+164001Dispensação de OPM Auxiliares de Locomoção                                                                                                            201701
+165001Referência para Atenção Integral às Pessoas em Situação de Violência Sexual                                                                           201701
+100002Atendimento em manicômio até 100 presos                                                                                                               201701
+169002Litotripsia                                                                                                                                           201701
+102002Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade I)                                                                          201701
+103002Unidade de suporte básico de vida terrestre (USB)                                                                                                     201701
+104002Cental de Regulação de Consultas e Exames                                                                                                             201701
+105002Coluna e nervos periféricos                                                                                                                           201701
+106002Diagnóstico e tratamento                                                                                                                              201701
+107002Serviço de Atenção à Saúde Auditiva na Alta Complexidade                                                                                              201701
+108002Centro de referência em saúde do trabalhador CEREST estadual                                                                                          201701
+109002Unidade sócio-educativa com de 41 a 100 adolecentes                                                                                                   201701
+110002Contracepção clínica                                                                                                                                  201701
+111002Tratamento multidrogas resistentes                                                                                                                    201701
+112002Acompanhamento do pré-natal de alto risco                                                                                                             201701
+113002Internação Domiciliar                                                                                                                                 201701
+114002Endodontia                                                                                                                                            201701
+115002Atendimento psicossocial                                                                                                                              201701
+116002Cirurgia cardiovascular (adulto)                                                                                                                      201701
+117002Tratamento em queimados                                                                                                                               201701
+120002Exames citopatológicos                                                                                                                                201701
+121002Ultra-sonografia                                                                                                                                      201701
+122002Teste de Holter                                                                                                                                       201701
+123002OPM ortopédicas                                                                                                                                       201701
+124002Cirurgia de glândulas endócrinas                                                                                                                      201701
+125002Farmácia Popular                                                                                                                                      201701
+126002Assistência fisioterapêutica em alterações oncológicas                                                                                                201701
+128002Diagnóstico em hemoterapia                                                                                                                            201701
+129002Exames de histocompatibilidade por sorologia e biologia                                                                                               201701
+131002Tratamento clínico do aparelho da visão                                                                                                               201701
+132002Hematologia                                                                                                                                           201701
+133002Diagnóstico em Pneumologia                                                                                                                            201701
+134002Fitoterapia                                                                                                                                           201701
+135002Reabilitação Intelectual                                                                                                                              201701
+136002Enteral/Parenteral                                                                                                                                    201701
+138002Diagnóstico e tratamento em membros superiores                                                                                                        201701
+139002Tratamento de recém-nascido com doenças falciformes                                                                                                   201701
+140002Pronto Socorro Especializado                                                                                                                          201701
+141002Vigilância sanitária                                                                                                                                  201701
+142002Do aparelho respiratório                                                                                                                              201701
+143002Transporte aéreo                                                                                                                                      201701
+145002Exames hematológicos e hemostasia                                                                                                                     201701
+146002Cirúrgica                                                                                                                                             201701
+147002NASF 2                                                                                                                                                201701
+148002AIDS                                                                                                                                                  201701
+149002Medula óssea                                                                                                                                          201701
+150002Fístula arteriovenosa com enxerto                                                                                                                     201701
+151002Medicina nuclear in vitro                                                                                                                             201701
+153002Cirurgia e Acompanhamento pré e pós oreratório                                                                                                        201701
+154002Banco de tecido musculo esqueletico                                                                                                                   201701
+155002Serviço de Traumatologia e Ortopedia Pediátrica (até 21 anos de idade)                                                                                201701
+156002Atenção as Pessoas Ostomizadas II                                                                                                                     201701
+158002Serviço de Atenção Integral em Hanseniase Tipo II                                                                                                     201701
+159002Atenção Básica com Saúde Bucal                                                                                                                        201701
+160002Teleconsultoria Síncrona                                                                                                                              201701
+162002NEONATAL                                                                                                                                              201701
+163002NEONATAL CANGURU                                                                                                                                      201701
+164002Manutenção e Adaptação de OPM Auxiliares de Locomoção                                                                                                 201701
+165002Atenção Integral à Saúde de Adolescentes em Situação de Violência Sexual                                                                              201701
+167002ODONTOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                       201701
+168002Referência em Doenças Raras                                                                                                                           201701
+101002Saúde bucal MI                                                                                                                                        201701
+100003Atendimento em presídio acima de 100 presos                                                                                                           201701
+167003OFTALMOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                          201701
+102003Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade II)                                                                         201701
+103003Unidade de suporte avançado de vida terrestre (USA)                                                                                                   201701
+104003Central de Regulação de Urgências                                                                                                                     201701
+105003Tumores do sistema nervoso                                                                                                                            201701
+106003Diagnóstico, tratamento e capacitação técnica                                                                                                         201701
+107003Terapia fonoaudiológica                                                                                                                               201701
+108003VIGILÂNCIA EM SAÚDE DO TRABALHADOR (VISAT)                                                                                                            201701
+109003Unidade sócio-educativa com de 101 a 180 adolecentes                                                                                                  201701
+110003Laqueadura                                                                                                                                            201701
+112003Parto em gestação de risco habitual                                                                                                                   201701
+113003Equipe Multidisciplinar de Atenção Domiciliar - EMAD                                                                                                  201701
+114003Periodontia clínica                                                                                                                                   201701
+115003Serviço Hospitalar para Atenção a Saúde Mental                                                                                                        201701
+116003Cirurgia cardiovascular (Pediátrico)                                                                                                                  201701
+117003Tratamento da lipoatrofia facial do portador de HIV / AIDS                                                                                            201701
+120003Monitoramento Externo da Qualidade dos Exames Citopatologicos do Colo do Útero                                                                        201701
+121003Tomografia computadorizada                                                                                                                            201701
+122003Exame Eletrocardiográfico                                                                                                                             201701
+123003OPM auditivas                                                                                                                                         201701
+125003Farmácia com manipulação homeopática                                                                                                                  201701
+126003Assistência fisioterapêutica em oftalmologia                                                                                                          201701
+128003Procedimentos especiais em hemoterapia                                                                                                                201701
+130003Confeccção/Intervenção de Acessos para Diálise                                                                                                        201701
+131003Tratamento cirúrgico do aparelho da visão                                                                                                             201701
+132003Oncologia clínica                                                                                                                                     201701
+133003Diagnóstico em Pneumologia por Telemedicina                                                                                                           201701
+134003Outras técnicas em medicina tradicional chinesa                                                                                                       201701
+135003Reabilitação Física                                                                                                                                   201701
+136003Enteral/Parenteral, com manipulação/fabricação                                                                                                        201701
+138003Diagnóstico e tratamento em coluna vertebral e caixa torácica                                                                                         201701
+139003Tratamento de recém-nascido com fibrose cística                                                                                                       201701
+140003Pronto Atendimento                                                                                                                                    201701
+141003Vigilância ambiental                                                                                                                                  201701
+142003Do aparelho urinário                                                                                                                                  201701
+143003Transporte marítimo                                                                                                                                   201701
+145003Exames sorológicos e imunológicos                                                                                                                     201701
+148003Geriátrico                                                                                                                                            201701
+149003Coração                                                                                                                                               201701
+151003Medicina nuclear in vivo por telemedicina                                                                                                             201701
+155003Serviço de Traumatologia e Ortopedia de Urgência                                                                                                      201701
+158003Serviço de Atenção Integral em Hanseniase Tipo III                                                                                                    201701
+160003Segunda Opinião Formativa                                                                                                                             201701
+162003PEDIÁTRICO                                                                                                                                            201701
+163003PEDIÁTRICO                                                                                                                                            201701
+164003Dispensação de OPM Ortopédica                                                                                                                         201701
+165003Atenção Integral à Saúde de Crianças em Situação de Violência Sexual                                                                                  201701
+101003Saúde bucal MII                                                                                                                                       201701
+100004Atendimento em manicômio acima de 100 presos                                                                                                          201701
+104004Unidade de autorizações de TFD intermunicipais                                                                                                        201701
+105004Neurocirurgia vascular                                                                                                                                201701
+107004Diagnóstico em audiologia/otologia                                                                                                                    201701
+109004Unidade sócio-educativa com mais de 180 adolecentes                                                                                                   201701
+110004Vasectomia                                                                                                                                            201701
+112004Parto em gestação de alto risco                                                                                                                       201701
+113004Equipe Multidisciplinar de Apoio - EMAP                                                                                                               201701
+114004Moldagem/Manutenção                                                                                                                                   201701
+115004Serviço Residencial Terapêutico Tipo I - SRT tipo I                                                                                                   201701
+116004Cirurgia vascular                                                                                                                                     201701
+121004Ressonância magnética                                                                                                                                 201701
+122004Exame Eletroencefalográfico                                                                                                                           201701
+123004OPM oftalmológicas                                                                                                                                    201701
+125004Dispensação de medicamentos estratégicos                                                                                                              201701
+126004Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                                                                     201701
+128004Medicina transfusional                                                                                                                                201701
+130004Tratamento Nefrologia em Geral                                                                                                                        201701
+131004Projeto Olhar Brasil                                                                                                                                  201701
+132004Radioterapia                                                                                                                                          201701
+134004Práticas corporais/Atividade física                                                                                                                   201701
+135004Reabilitação visual/mental/múltiplas deficiências                                                                                                     201701
+138004Diagnóstico e tratamento em cintura pélvica                                                                                                           201701
+139004Tratamento de recém-nascido com outras doenças congênitas                                                                                             201701
+140004Estabilização de paciente crítico/grave                                                                                                               201701
+141004Núcleo de vigilância hospitalar                                                                                                                       201701
+142004Do aparelho ginecológico                                                                                                                              201701
+145004Exames coprológicos                                                                                                                                   201701
+148004Fibrose cística                                                                                                                                       201701
+149004Pulmão                                                                                                                                                201701
+162004QUEIMADOS                                                                                                                                             201701
+163004ADULTO                                                                                                                                                201701
+164004Manutenção e Adaptação de OPM Ortopédica                                                                                                              201701
+165004Atenção Integral à Saúde de Homens em Situação de Violência Sexual                                                                                    201701
+167004OFTALMOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                      201701
+145005Exames de uroanálise                                                                                                                                  201701
+140005Atendimento ao paciente com Acidente Vascular Cerebral (AVC)                                                                                          201701
+149005Córnea / Esclera                                                                                                                                      201701
+162005DOENÇA CORONARIANA (UCO)                                                                                                                              201701
+164005Dispensação de OPM Auditiva                                                                                                                           201701
+165005Atenção Integral à Saúde de Pessoas Idosas em Situação de Violência Sexual                                                                            201701
+103005Unidade de Suporte Básico de vida: Equipe Embarcação                                                                                                  201701
+104005Unidade de autorizações de TFD interestaduais                                                                                                         201701
+105005Tratamento neurocirúrgico da dor funcional                                                                                                            201701
+107005Implante Coclear                                                                                                                                      201701
+112005Centro de parto normal                                                                                                                                201701
+114005Cirurgia oral                                                                                                                                         201701
+115005Serviço Residencial Terapêutico Tipo II - SRT tipo II                                                                                                 201701
+116005Cardiologia intervencionista (hemodinâmica)                                                                                                           201701
+122005Teste Ergométrico por Telemedicina                                                                                                                    201701
+123005OPM em gastroenterologia                                                                                                                              201701
+125005Dispensação de medicamentos básicos                                                                                                                   201701
+126005Assistência fisioterapêutica nas disfunções músculo-esqueléticas (todas as origens)                                                                   201701
+130005Tratamento Diálitico Peritonial                                                                                                                       201701
+131005Diagnóstico em Oftalmologia por Telemedicina                                                                                                          201701
+132005Oncologia cirúrgica                                                                                                                                   201701
+134005Homeopatia                                                                                                                                            201701
+135005Reabiliatação Auditiva                                                                                                                                201701
+138005Diagnóstico e tratamento em membros inferiores                                                                                                        201701
+139005Acompanhamento a pacientes com diagnósticos de Hiperplasia Adrenal Congênita                                                                          201701
+148005Cirúrgico / Diagnóstico                                                                                                                               201701
+140006Pronto Atendimento Clínico                                                                                                                            201701
+145006Exames hormonais                                                                                                                                      201701
+148006Acompanhamento pós-transplante de medula óssea                                                                                                        201701
+149006Fígado                                                                                                                                                201701
+164006Manutenção e Adaptação de OPM Auditiva                                                                                                                201701
+165006Interrupção de Gravidez nos Casos Previstos em Lei                                                                                                    201701
+103006Veículos de intervenção rápida                                                                                                                        201701
+104006Central Estadual de Regulação da Alta Complexidade                                                                                                    201701
+105006Investigação e cirurgia de epilepsia                                                                                                                  201701
+107006Triagem Auditiva Neonatal                                                                                                                             201701
+112006Casa da Gestante, Bebê e Puérpera                                                                                                                     201701
+114006Cirurgia buco-maxilo-facial                                                                                                                           201701
+115006UA Adulto                                                                                                                                             201701
+116006Cardiologia Endovascular Extracardíaco                                                                                                                201701
+121006Radiologia intervencionista                                                                                                                           201701
+122006Teste Holter por Telemedicina                                                                                                                         201701
+123006OPM em urologia                                                                                                                                       201701
+125006Farmácia Hospitalar                                                                                                                                   201701
+126006Assistência fisioterapêutica em queimados                                                                                                             201701
+130006Tratamento em DRC                                                                                                                                     201701
+131006Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                                 201701
+134006Termalismo/Crenoterapia                                                                                                                               201701
+139006Acompanhamento a pacientes com diagnósticos de Deficiência Biotinidase                                                                                201701
+126007Assistência fisioterapêutica nas alterações em neurologia                                                                                             201701
+131007Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                             201701
+116007Cardiologia Clínica                                                                                                                                   201701
+135007Oficina Ortopédica Fixa                                                                                                                               201701
+115007UA Infantojuvenil                                                                                                                                     201701
+114007Atendimento à pessoa com deficiência                                                                                                                  201701
+149007Pâncreas                                                                                                                                              201701
+107007Diagnóstico em Audiologia/Otologia po Telemedicina                                                                                                    201701
+122007Exame Eletrocardiografico por Telemedicina                                                                                                            201701
+164007Dispensação de OPM Oftalmológica                                                                                                                      201701
+134007Medicina antroposófica                                                                                                                                201701
+123007OPM em odontologia                                                                                                                                    201701
+165007Atenção Ambulatorial às Pessoas em Situação de Violência Sexual                                                                                       201701
+145007Exames de  vigilância epidemiológica e  ambiental                                                                                                     201701
+103007Outros veículos                                                                                                                                       201701
+140007Pronto Atendimento Pediátrico                                                                                                                         201701
+105007Tratamento endovascular                                                                                                                               201701
+121007Radiologia por telemedicina                                                                                                                           201701
+121008Ultra-sonografia por telemedicina                                                                                                                     201701
+115008Unidade de Atenção em Regime Residencial                                                                                                              201701
+107008Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             201701
+105008Neurocirurgia funcional estereotáxica                                                                                                                 201701
+103008Ambulância de resgate                                                                                                                                 201701
+165008Coleta de Vestígios de Violência Sexual                                                                                                               201701
+164008Manutenção e Adaptação de OPM Oftalmológica                                                                                                           201701
+149008Retirada de orgãos                                                                                                                                    201701
+145008Exames toxicológicos ou de monitorização terapêutica                                                                                                  201701
+140008Pronto Atendimento Obstétrico                                                                                                                         201701
+135008Oficina Ortopédica Intinerante Terrestre                                                                                                              201701
+126008Diagnóstico cinético funcional                                                                                                                        201701
+123008OPM buco-maxilo-facial                                                                                                                                201701
+122008Exame Eletroencefalografico por Telemedicina                                                                                                          201701
+140009Pronto Atendimento Psiquiátrico                                                                                                                       201701
+123009Substituição/Troca em órteses/próteses                                                                                                                201701
+149009Pele                                                                                                                                                  201701
+135009Oficina Ortopédica Intinerante Fluvial                                                                                                                201701
+121009Tomografia computadorizada por telemedicina                                                                                                           201701
+122009Exame Eletroneuromiografia                                                                                                                            201701
+145009Exames microbiológicos                                                                                                                                201701
+105009Polissonografia                                                                                                                                       201701
+164009Substitução/Troca de OPM                                                                                                                              201701
+123010OPM em queimados                                                                                                                                      201701
+149010Válvulas cardíacas                                                                                                                                    201701
+145010Exames em outros líquidos biológicos                                                                                                                  201701
+121010Ressonância magnética por telemedicina                                                                                                                201701
+103010Motolância                                                                                                                                            201701
+140010Pronto Atendimento Oftalmológico                                                                                                                      201701
+135010Atenção Fonoaudiológica                                                                                                                               201701
+122010Exame videoeletroencefalografia                                                                                                                       201701
+122011Potenciais Evocados                                                                                                                                   201701
+121011Radiologia intervencionista por telemedicina                                                                                                          201701
+103011Unidade de Suporte Avançado de vida: Equipe Embarcação                                                                                                201701
+149011Osteocondroligamentos                                                                                                                                 201701
+145011Exames de genética                                                                                                                                    201701
+140011Pronto Atendimento Odontológico                                                                                                                       201701
+135011Atenção Fisioterapeutica                                                                                                                              201701
+123011OPM em nefrologia                                                                                                                                     201701
+135012Atenção à Saúde das Pessoas Ostomizadas I                                                                                                             201701
+145012Exames para triagem neonatal                                                                                                                          201701
+103012Equipe Aeromédico                                                                                                                                     201701
+123012OPM - Projeto Olhar Brasil                                                                                                                            201701
+122012Potenciais Evocados por Telemedicina                                                                                                                  201701
+149012Separação, avaliação biomicroscópica e conservação da córnea/esclera                                                                                  201701
+140012Pronto Socorro Pediátrico                                                                                                                             201701
+121012Mamografia                                                                                                                                            201701
+123013OPM Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                             201701
+149013Contagem endotelial corneana                                                                                                                          201701
+145013Exames imunohematológicos                                                                                                                             201701
+135013Atenção à Saúde das Pessoas Ostomizadas II                                                                                                            201701
+140013Pronto Socorro Obstétrico                                                                                                                             201701
+121013Mamografia por Telemedicina                                                                                                                           201701
+149014Acompanhamento de paciente transplantado                                                                                                              201701
+123014OPM Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                         201701
+140014Pronto Socorro Cardiovascular                                                                                                                         201701
+140015Pronto Socorro Neurologia/Neurocirurgia                                                                                                               201701
+149015Ações para doação e captação de órgãos e tecidos                                                                                                      201701
+140016Pronto Socorro Traumato-Ortopédico                                                                                                                    201701
+149016Retirada de globo ocular humano para transplante                                                                                                      201701
+140017Pronto Socorro Odontológico                                                                                                                           201701
+140018Pronto Socorro Oftalmológico                                                                                                                          201701
+140019Pronto Socorro Geral/Clínico                                                                                                                          201701

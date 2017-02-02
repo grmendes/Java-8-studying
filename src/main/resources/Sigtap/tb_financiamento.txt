@@ -1,0 +1,7 @@
+01Atenção Básica (PAB)                                                                                201701
+02Assistência Farmacêutica                                                                            201701
+04Fundo de Ações Estratégicas e Compensações (FAEC)                                                   201701
+05Incentivo - MAC                                                                                     201701
+06Média e Alta Complexidade (MAC)                                                                     201701
+07Vigilância em Saúde                                                                                 201701
+08Gestão do SUS                                                                                       201701
