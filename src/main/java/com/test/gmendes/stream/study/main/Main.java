@@ -1,12 +1,7 @@
 package com.test.gmendes.stream.study.main;
 
-import com.test.gmendes.stream.study.java7.v1.ProcessJava7V1;
-import com.test.gmendes.stream.study.java7.v2.ListToMapJava7Tests;
-import com.test.gmendes.stream.study.java7.v2.ProcessJava7V2;
-import com.test.gmendes.stream.study.java8.v1.ProcessJava8V1;
-import com.test.gmendes.stream.study.java8.v2.ListToMapJava8Tests;
-import com.test.gmendes.stream.study.java8.v2.ProcessJava8V2;
-import com.test.gmendes.stream.study.java8.v3.ProcessJava8V3;
+import com.test.gmendes.stream.study.kotlin.v1.ProcessKotlinV1;
+import com.test.gmendes.stream.study.kotlin.v1.ProcessKotlinV2;
 import org.openjdk.jmh.annotations.Benchmark;
 import org.openjdk.jmh.annotations.BenchmarkMode;
 import org.openjdk.jmh.annotations.Mode;
@@ -22,8 +17,6 @@ import org.openjdk.jmh.runner.options.OptionsBuilder;
 import java.io.File;
 import java.security.InvalidParameterException;
 import java.util.concurrent.TimeUnit;
-
-import static com.test.gmendes.stream.study.Constants.LAYOUT_FILE_BASE_NAME;
 
 /**
  * Main class for tests. It uses JMH suit to benchmark the executions.
@@ -48,6 +41,7 @@ public class Main {
     }
 
     public static void main(String... args) throws RunnerException {
+//        new ProcessKotlinV2(path).execute();
         Options opt = new OptionsBuilder()
                 .include(Main.class.getSimpleName())
                 .resultFormat(ResultFormatType.TEXT)
@@ -59,104 +53,123 @@ public class Main {
         new Runner(opt).run();
     }
 
-    @Benchmark
-    public void readFileJava7V1() {
-        ProcessJava7V1.readFile(path, LAYOUT_FILE_BASE_NAME);
-    }
-
-    @Benchmark
-    public void readFileJava7V2() {
-        ProcessJava7V2.readFile(path, LAYOUT_FILE_BASE_NAME);
-    }
-
-    @Benchmark
-    public void readFileJava8V1() {
-        ProcessJava8V1.readFile(path, LAYOUT_FILE_BASE_NAME);
-    }
-
-    @Benchmark
-    public void readFileJava8V2() {
-        ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME);
-    }
-
-    @Benchmark
-    public void readFileJava8V3() {
-        // This test actually does not evaluates the file content, because it returns a stream.
-        // It's really important to call close() on end of stream, so the file is closed.
-        ProcessJava8V3.readFile(path, LAYOUT_FILE_BASE_NAME).close();
-    }
-
-    @Benchmark
-    public void listToMap7V1() {
-        ProcessJava7V1.listToMap(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME));
-    }
-
-    @Benchmark
-    public void listToMap7V2() {
-        ProcessJava7V2.listToMap(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME));
-    }
-
-    @Benchmark
-    public void listToMap8V1() {
-        ProcessJava8V1.listToMap(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
-    }
-
-    @Benchmark
-    public void listToMap8V2() {
-        ProcessJava8V2.listToMap(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
-    }
-
-    //    @Benchmark
-//    public void splitList8V3() {
-    // This test actually does not evaluates the file content, because it returns a stream.
-    // This test is commented because it's producing lots of exceptions during execution, even calling close()
-    // method from Stream.
-//        ProcessJava8V3.splitList(ProcessJava8V3.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty).close();
+//    @Benchmark
+//    public void readFileJava7V1() {
+//        ProcessJava7V1.readFile(path, LAYOUT_FILE_BASE_NAME);
+//    }
+//
+//    @Benchmark
+//    public void readFileJava7V2() {
+//        ProcessJava7V2.readFile(path, LAYOUT_FILE_BASE_NAME);
+//    }
+//
+//    @Benchmark
+//    public void readFileJava8V1() {
+//        ProcessJava8V1.readFile(path, LAYOUT_FILE_BASE_NAME);
+//    }
+//
+//    @Benchmark
+//    public void readFileJava8V2() {
+//        ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME);
+//    }
+//
+//    @Benchmark
+//    public void readFileJava8V3() {
+//        // This test actually does not evaluates the file content, because it returns a stream.
+//        // It's really important to call close() on end of stream, so the file is closed.
+//        ProcessJava8V3.readFile(path, LAYOUT_FILE_BASE_NAME).close();
+//    }
+//
+//    @Benchmark
+//    public void readFileKotlin() {
+//        ProcessKotlinV1.Companion.readFile(path, LAYOUT_FILE_BASE_NAME);
+//    }
+//
+//    @Benchmark
+//    public void listToMap7V1() {
+//        ProcessJava7V1.listToMap(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME));
+//    }
+//
+//    @Benchmark
+//    public void listToMap7V2() {
+//        ProcessJava7V2.listToMap(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME));
+//    }
+//
+//    @Benchmark
+//    public void listToMap8V1() {
+//        ProcessJava8V1.listToMap(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
+//    }
+//
+//    @Benchmark
+//    public void listToMap8V2() {
+//        ProcessJava8V2.listToMap(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
+//    }
+//
+//    //    @Benchmark
+////    public void splitList8V3() {
+//    // This test actually does not evaluates the file content, because it returns a stream.
+//    // This test is commented because it's producing lots of exceptions during execution, even calling close()
+//    // method from Stream.
+////        ProcessJava8V3.splitList(ProcessJava8V3.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty).close();
+////    }
+//
+//    @Benchmark
+//    public void listToMap7Edges() {
+//        ListToMapJava7Tests.listToMap7Edges(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME));
+//    }
+//
+//    @Benchmark
+//    public void listToMap8ForEach() {
+//        ListToMapJava8Tests.listToMap8ForEach(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
+//    }
+//
+//    @Benchmark
+//    public void listToMap8CollectorOptimized() {
+//        ListToMapJava8Tests.listToMap8CollectorOptimized(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
+//    }
+//
+//    @Benchmark
+//    public void listToMap8Edges() {
+//        ListToMapJava8Tests.listToMap8Edges(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
+//    }
+//
+//    @Benchmark
+//    public void listToMapKotlin() {
+//        ProcessKotlinV1.Companion.listToMap(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME));
+//    }
+//
+//    @Benchmark
+//    public void ProcessJava7V1() {
+//        new ProcessJava7V1(path).execute();
+//    }
+//
+//    @Benchmark
+//    public void ProcessJava7V2() {
+//        new ProcessJava7V2(path).execute();
+//    }
+//
+//    @Benchmark
+//    public void ProcessJava8V1() {
+//        new ProcessJava8V1(path).execute();
+//    }
+//
+//    @Benchmark
+//    public void ProcessJava8V2() {
+//        new ProcessJava8V2(path).execute();
+//    }
+//
+//    @Benchmark
+//    public void ProcessJava8V3() {
+//        new ProcessJava8V3(path).execute();
 //    }
 
     @Benchmark
-    public void listToMap7Edges() {
-        ListToMapJava7Tests.listToMap7Edges(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME));
+    public void ProcessKotlinV1() {
+        new ProcessKotlinV1(path).execute();
     }
-
     @Benchmark
-    public void listToMap8ForEach() {
-        ListToMapJava8Tests.listToMap8ForEach(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
-    }
-
-    @Benchmark
-    public void listToMap8CollectorOptimized() {
-        ListToMapJava8Tests.listToMap8CollectorOptimized(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
-    }
-
-    @Benchmark
-    public void listToMap8Edges() {
-        ListToMapJava8Tests.listToMap8Edges(ProcessJava8V2.readFile(path, LAYOUT_FILE_BASE_NAME), String::isEmpty);
-    }
-
-    @Benchmark
-    public void ProcessJava7V1() {
-        new ProcessJava7V1(path).execute();
-    }
-
-    @Benchmark
-    public void ProcessJava7V2() {
-        new ProcessJava7V2(path).execute();
-    }
-
-    @Benchmark
-    public void ProcessJava8V1() {
-        new ProcessJava8V1(path).execute();
-    }
-
-    @Benchmark
-    public void ProcessJava8V2() {
-        new ProcessJava8V2(path).execute();
-    }
-
-    @Benchmark
-    public void ProcessJava8V3() {
-        new ProcessJava8V3(path).execute();
+    public void ProcessKotlinV2() {
+        new ProcessKotlinV2(path).execute();
     }
 
 }
